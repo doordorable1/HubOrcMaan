@@ -1,0 +1,5 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/GameOver.uss?fileID=7433441132597879392&amp;guid=b5b61b45d6e35294880b195b95655c21&amp;type=3#GameOver" />
+    <engine:Label text="gameover" style="font-size: 100px; -unity-text-align: middle-center; height: 587px; color: rgb(255, 255, 255);" />
+    <engine:Button text="Restart" name="restartButton" class="button" />
+</engine:UXML>

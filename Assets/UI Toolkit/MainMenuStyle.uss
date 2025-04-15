@@ -1,0 +1,28 @@
+.header {
+    font-size: 150px;
+    color: rgb(255, 255, 255);
+    -unity-font-definition: url("project://database/Assets/TextMesh%20Pro/Examples%20&%20Extras/Fonts/Oswald-Bold.ttf?fileID=12800000&guid=c9f6d0e7bc8541498c9a4799ba184ede&type=3#Oswald-Bold");
+    -unity-text-align: upper-center;
+}
+
+.button {
+    align-self: center;
+    margin-top: 50px;
+    width: 300px;
+    height: 100px;
+    font-size: 35px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    justify-content: flex-start;
+    align-content: flex-start;
+    -unity-font-style: bold;
+    transition-duration: 0.35s;
+}
+
+.button:hover {
+    scale: 1.1 1.1;
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    background-color: rgb(157, 217, 106);
+}

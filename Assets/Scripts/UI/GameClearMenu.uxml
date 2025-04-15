@@ -1,0 +1,4 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:Label text="GameClear" style="font-size: 100px; -unity-text-align: middle-center; height: 550px; color: rgb(255, 255, 255);" />
+    <engine:Button text="감사합니다" name="Button" style="font-size: 40px; width: 341px; align-self: center; height: 88px; border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; border-top-left-radius: 15px; border-top-right-radius: 15px; border-bottom-right-radius: 15px; border-bottom-left-radius: 15px;" />
+</engine:UXML>
