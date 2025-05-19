@@ -8,7 +8,7 @@
 
 ## 시작하기
 
-게임 빌드는 [여기](https://github.com/goalgoloo1/KJ3-W02/releases/tag/1.0.0)에서 다운로드 가능합니다! ✨
+게임 빌드는 [여기](https://github.com/doordorable1/HubOrcMaan/releases/tag/1.0.0)에서 다운로드 가능합니다! ✨
 
 
 
